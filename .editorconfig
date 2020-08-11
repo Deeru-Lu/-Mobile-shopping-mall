@@ -1,0 +1,14 @@
+root = true
+
+[*]
+charset = utf-8
+# 缩进的风格使用空格
+indent_style = space
+# 缩进的空格2格
+indent_size = 2
+# 换行
+end_of_line = lf
+# 最后新建一行
+insert_final_newline = true
+# 去除多余空格
+trim_trailing_whitespace = true
